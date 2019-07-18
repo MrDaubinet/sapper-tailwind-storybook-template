@@ -1,0 +1,14 @@
+<!-- <Nav segment={child.segment}/> -->
+
+<!-- <main>
+	<svelte:component this={child.component} {...child.props}/>
+</main>
+
+<script>
+	// export default {
+	// 	components: {
+	// 		Nav: '../components/Nav'
+	// 	}
+	// };
+</script> -->
+<slot></slot>
